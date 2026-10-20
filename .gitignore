@@ -1,0 +1,11 @@
+*.log
+*.tmp
+.vscode/
+screenshots/archive/
+
+# Ignore packet captures by default.
+*.pcap
+*.pcapng
+
+# Allow reviewed lab exports in captures/.
+!captures/*.pcapng
