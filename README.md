@@ -4,7 +4,7 @@ I captured and inspected DNS, TCP, and HTTP traffic on my Windows computer to pr
 
 This is Lab 2 of my five-lab IT portfolio. My [Active Directory domain lab](https://github.com/ThomasTafa29/active-directory-domain-lab) covers the environment I built in Lab 1.
 
-**Video walkthrough:** Pending recording.
+**Video walkthrough:** [(https://www.loom.com/share/cebf55e4c3424fc694e2e6139a4ae2cc)]
 
 ## Results
 
